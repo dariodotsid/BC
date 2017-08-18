@@ -12,7 +12,9 @@ Break Chain AI
    / / /____\_\ \    / /_________/\ \ \  / / /________    ___/ / /__     
   / / /__________\  / / /_       __\ \_\/ / /_________\  /\__\/_/___\    
   \/_____________/  \_\___\     /____/_/\/____________/  \/_________/    
-                                                                                                                                                 
+  
+  
+  
 BaCi is name of AI that i will develop.
 All code will be open but i not update regular.
 
