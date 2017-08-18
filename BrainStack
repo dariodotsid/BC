@@ -1,10 +1,17 @@
 # Brain Stack
 # every stack have 2 status first is light off and second is light on
+# 
 
 1 death/live
 2 stop/run
 .
 .
+.
+5 remove-act/add-act
+.
+.
+.
+10 ill/healthy
 .
 .
 .
@@ -18,5 +25,13 @@
 .
 .
 .
+1000 :(/:)
 .
+.
+.
+.
+.
+.
+1999 dealloc
+2000 alloc
 2001 replication
