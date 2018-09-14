@@ -1,0 +1,41 @@
+# Status of cell
+# Every cell've one(ststus n^1) or more status
+# Every status can be've 3 values:
+#  - 0: off
+#  - 1: on
+#  - 2: no val, means an indefinitive value absent NO on and NO off
+# 
+
+1 death/live
+2 stop/run
+.
+.
+.
+5 remove-act/add-act
+.
+.
+.
+10 ill/healthy
+.
+.
+.
+.
+.
+.
+500 forget/learn
+501 devolve/evolve
+.
+.
+.
+.
+.
+1000 :(/:)
+.
+.
+.
+.
+.
+.
+1999 dealloc
+2000 alloc
+2001 replication
