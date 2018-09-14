@@ -4,13 +4,13 @@
 +-----------------------+
 |      status array     |
 +-----------------------+
-|      input array      |
+|      input array      |    < list of input and list of connection
 +-----------------------+
-|      memory array     |
+|      memory array     |    < list of element with value
 +-----------------------+
-|     function array    |
+|     function array    |    < list of function of cell   
 +-----------------------+
-|       output array    |
+|       output array    |    < list of output and list of connection
 +-----------------------+
 
 
