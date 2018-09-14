@@ -1,0 +1,14 @@
+status start with 0
+status end with 9999
+
+status line:
+id; status; next
+0;0;1
+1;0/1/2(2=null,indefinite);2-3-4-2001
+.
+.
+.
+.
+n;0/1/2;9999
+
+
